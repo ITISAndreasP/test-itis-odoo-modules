@@ -1,17 +1,17 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "{{ name }}",
+    'name': "itis-test-module-001",
 
     'summary': """
-        Short (1 phrase/line) summary of the module's purpose, used as
-        subtitle on modules listing or apps.openerp.com""",
+        This is a short test for apps.odoo.com
+        """,
 
     'description': """
-        Long description of module's purpose
+        This is a short test for apps.odoo.com
     """,
 
-    'author': "Your Company",
-    'website': "http://www.yourcompany.com",
+    'author': "IT IS AG",
+    'website': "http://www.itis-odoo.de",
 
     # Categories can be used to filter modules in modules listing
     # Check https://github.com/odoo/odoo/blob/master/openerp/addons/base/module/module_data.xml
