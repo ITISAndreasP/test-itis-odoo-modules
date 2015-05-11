@@ -33,4 +33,6 @@
     'demo': [
         'demo.xml',
     ],
+
+    'images': ['static/description/main_screenshot.png'],
 }
