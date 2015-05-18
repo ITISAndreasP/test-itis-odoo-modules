@@ -18,8 +18,8 @@
     # for the full list
     'category': 'Uncategorized',
     'version': '0.1',
-    'price': 99999.00,
-    'currency': 'EUR',
+    #'price': 99999.00,
+    #'currency': 'EUR',
 
     # any module necessary for this one to work correctly
     'depends': ['base'],
